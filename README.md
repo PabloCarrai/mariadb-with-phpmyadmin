@@ -1,0 +1,1 @@
+# mariadb-with-phpmyadmin
